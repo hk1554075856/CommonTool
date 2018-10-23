@@ -1,0 +1,22 @@
+{
+  "name": "CommonTool",
+  "version": "0.1.0",
+  "summary": "Test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hk1554075856/CommonTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lingxiang": "18639668401@163.com"
+  },
+  "source": {
+    "git": "https://github.com/hk1554075856/CommonTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CommonTool/Classes/**/*"
+}

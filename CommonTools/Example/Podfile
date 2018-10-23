@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CommonTool_Example' do
+  pod 'CommonTool', :path => '../'
+
+  target 'CommonTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
