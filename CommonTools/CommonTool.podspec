@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CommonTool/Classes/**/*'
+  s.source_files = 'CommonTools/CommonTool/Classes/**/*'
   
   # s.resource_bundles = {
   #   'CommonTool' => ['CommonTool/Assets/*.png']
